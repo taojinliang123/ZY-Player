@@ -2,7 +2,6 @@
  "sites": {
    "default":1,
    "data":[
-[
   {
     "key": "mMlkes",
     "name": "天堂资源(官)",
@@ -611,19 +610,17 @@
     "search": 1,
     "id": 151
   }
-
-
 ]},
 "iptv":  {
   "default":1,
    "data":[
- {
+   {
     "name": "修",
     "url": "https://agit.ai/xiatian2022/Y/raw/branch/master/zby.txt",
     "epg": "http://epg.112114.xyz",
     "isActive": true,
-    "id": 1
-  }      
+    "id": 4
+  }  
 ]},
 "analyzes":  {"default":1,
    "data":
