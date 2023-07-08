@@ -1,3 +1,7 @@
+{
+ "sites": {
+   "default":1,
+   "data":[
 [
   {
     "key": "fRNyop",
@@ -599,3 +603,111 @@
     "search": 1
   }
 ]
+]},
+"iptv":  {
+  "default":1,
+   "data":[
+   {
+    "name": "修",
+    "url": "https://agit.ai/xiatian2022/Y/raw/branch/master/zby.txt",
+    "epg": "http://epg.112114.xyz",
+    "isActive": true,
+    "id": 4
+  }  
+]},
+"analyzes":  {"default":1,
+   "data":
+[
+  {
+    "name": "左岸",
+    "url": "https://jx.jsonplayer.com/player/?url=",
+    "isActive": true,
+    "id": 49
+  },
+  {
+    "name": "盘古",
+    "url": "https://www.pangujiexi.cc/jiexi.php?url=",
+    "isActive": true,
+    "id": 50
+  },
+  {
+    "name": "全民",
+    "url": "http://jx.9jsp.com/?url=",
+    "isActive": true,
+    "id": 51
+  },
+  {
+    "name": "OK1",
+    "url": "https://okjx.cc/?url=",
+    "isActive": true,
+    "id": 52
+  },
+  {
+    "name": "OK2",
+    "url": "https://api.okjx.cc:3389/jx.php?url=",
+    "isActive": true,
+    "id": 53
+  },
+  {
+    "name": "饭团",
+    "url": "https://www.fantuantva.com/jiexi/jiexi-gf/?url=",
+    "isActive": true,
+    "id": 54
+  },
+  {
+    "name": "虾米",
+    "url": "https://jx.xmflv.com/?url=",
+    "isActive": true,
+    "id": 55
+  },
+  {
+    "name": "parwix",
+    "url": "https://jx.bozrc.com:4433/player/?url=",
+    "isActive": true,
+    "id": 56
+  },
+  {
+    "name": "MaoPlayer",
+    "url": "https://www.mtosz.com/erzi.php?url=",
+    "isActive": true,
+    "id": 57
+  },
+  {
+    "name": "8090G",
+    "url": "https://www.8090g.cn/?url=",
+    "isActive": true,
+    "id": 58
+  },
+  {
+    "name": "BL",
+    "url": "https://vip.bljiex.com/?v=",
+    "isActive": true,
+    "id": 59
+  },
+  {
+    "name": "铭人",
+    "url": "https://parse.mw0.cc/?url=",
+    "isActive": true,
+    "id": 60
+  },
+  {
+    "name": "M2090",
+    "url": "https://m2090.com/?url=",
+    "isActive": true,
+    "id": 61
+  },
+  {
+    "name": "夜幕",
+    "url": "https://www.yemu.xyz/?url=",
+    "isActive": true,
+    "id": 62
+  },
+  {
+    "name": "JSONPlayer",
+    "url": "https://jx.777jiexi.com/player/?url=",
+    "isActive": true,
+    "id": 63
+  }
+]
+}
+}
