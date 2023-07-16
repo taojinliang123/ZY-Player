@@ -65,7 +65,7 @@
     "group": "可下载",
     "isActive": true,
     "reverseOrder": false,
-    "status": false,
+    "status": "可用",
     "id": 181,
     "type": 0,
     "search": 1
