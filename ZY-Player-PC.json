@@ -1,7 +1,41 @@
 [
   {
-    "key": "fRNyop",
+    "key": "gdGEDS",
     "id": 1,
+    "name": "非凡资源(可下载)",
+    "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "可下载",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "45888E16E31A516F73A002B9239D7C10",
+    "id": 2,
+    "name": "量子资源(可下载)",
+    "api": "http://cj.lziapi.com/api.php/provide/vod/at/xml",
+    "group": "可下载",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "MUgPfc",
+    "id": 3,
+    "name": "映迷(可下载)",
+    "api": "https://www.inmi.app/api.php/provide/vod/at/xml",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "可下载",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "fRNyop",
+    "id": 4,
     "name": "诺讯资源(可下载)",
     "api": "https://xxx.nxflv.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -12,68 +46,8 @@
     "status": "可用"
   },
   {
-    "key": "wRwCLC",
-    "id": 2,
-    "name": "蜜蜂影视(可下载)",
-    "api": "https://www.beeyao.com/api.php/provide/vod/at/xml",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "可下载",
-    "isActive": true,
-    "reverseOrder": false,
-    "status": "可用"
-  },
-  {
-    "key": "G30B6R",
-    "id": 3,
-    "name": "243影视(可下载)",
-    "api": "https://www.knyu.net/api.php/provide/vod/at/xml",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "可下载",
-    "isActive": true,
-    "reverseOrder": false,
-    "status": "可用"
-  },
-  {
-    "key": "tyja3W",
-    "id": 4,
-    "name": "米杏影视(可下载)",
-    "api": "https://www.mixing.tv/api.php/provide/vod/at/xml",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "可下载",
-    "isActive": true,
-    "reverseOrder": false,
-    "status": "可用"
-  },
-  {
-    "key": "2w1qsD",
-    "id": 5,
-    "name": "高三影视(可下载)",
-    "api": "https://www.gaosan.tv/api.php/provide/vod/at/xml",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "可下载",
-    "isActive": true,
-    "reverseOrder": false,
-    "status": "可用"
-  },
-  {
-    "key": "ATynjP",
-    "id": 6,
-    "name": "新马影视(可下载)",
-    "api": "https://movie.gsl99.com/api.php/provide/vod/at/xml",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "可下载",
-    "isActive": true,
-    "reverseOrder": false,
-    "status": "可用"
-  },
-  {
     "key": "Ep6Eo5",
-    "id": 7,
+    "id": 5,
     "name": "爱坤资源(可下载)",
     "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -85,7 +59,7 @@
   },
   {
     "key": "x9XkHO",
-    "id": 8,
+    "id": 6,
     "name": "虎牙资源(可下载)",
     "api": "https://www.huyaapi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -97,7 +71,7 @@
   },
   {
     "key": "3JoPy8",
-    "id": 9,
+    "id": 7,
     "name": "68资源(可下载)",
     "api": "https://caiji.68zyapi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -109,7 +83,7 @@
   },
   {
     "key": "DCPQ5m",
-    "id": 10,
+    "id": 8,
     "name": "HDZYK高清资源库(可下载)",
     "api": "https://api.1080zyku.com/inc/ldg_api_all.php",
     "download": "",
@@ -121,7 +95,7 @@
   },
   {
     "key": "76HIZL",
-    "id": 11,
+    "id": 9,
     "name": "金鹰资源(可下载)",
     "api": "https://jyzyapi.com/provide/vod/at/xml/",
     "download": "",
@@ -133,7 +107,7 @@
   },
   {
     "key": "vzAF65",
-    "id": 12,
+    "id": 10,
     "name": "红牛资源(可下载)",
     "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/xml/",
     "download": "",
@@ -145,7 +119,7 @@
   },
   {
     "key": "KpO9B0",
-    "id": 13,
+    "id": 11,
     "name": "1080资源库(可下载)",
     "api": "https://api.1080zyku.com/inc/api.php/inc/ldg_api_all.php",
     "download": "",
@@ -162,7 +136,7 @@
     "useInSearchAll": true,
     "isActive": true,
     "group": "可下载",
-    "id": 14,
+    "id": 12,
     "reverseOrder": false,
     "status": "可用"
   },
@@ -173,7 +147,7 @@
     "useInSearchAll": true,
     "isActive": true,
     "group": "可下载",
-    "id": 15,
+    "id": 13,
     "reverseOrder": false,
     "status": "可用"
   },
@@ -184,7 +158,7 @@
     "useInSearchAll": true,
     "isActive": true,
     "group": "可下载",
-    "id": 16,
+    "id": 14,
     "reverseOrder": false,
     "status": "可用"
   },
@@ -195,7 +169,7 @@
     "useInSearchAll": true,
     "isActive": true,
     "group": "可下载",
-    "id": 17,
+    "id": 15,
     "reverseOrder": false,
     "status": "可用"
   },
@@ -206,7 +180,7 @@
     "useInSearchAll": true,
     "isActive": true,
     "group": "可下载",
-    "id": 18,
+    "id": 16,
     "reverseOrder": false,
     "status": "可用"
   },
@@ -217,7 +191,7 @@
     "useInSearchAll": true,
     "isActive": true,
     "group": "可下载",
-    "id": 19,
+    "id": 17,
     "reverseOrder": false,
     "status": "可用"
   },
@@ -228,13 +202,13 @@
     "useInSearchAll": true,
     "isActive": true,
     "group": "可下载",
-    "id": 20,
+    "id": 18,
     "reverseOrder": false,
     "status": "可用"
   },
   {
     "key": "70794DDF36840091E43C631C9BC6BE2F",
-    "id": 21,
+    "id": 19,
     "name": "韩剧资源(可下载)",
     "api": "http://www.hanjuzy.com/inc/api.php/inc/ldg_api_all.php",
     "group": "可下载",
@@ -249,17 +223,7 @@
     "useInSearchAll": true,
     "isActive": true,
     "group": "可下载",
-    "id": 22,
-    "reverseOrder": false,
-    "status": "可用"
-  },
-  {
-    "key": "45888E16E31A516F73A002B9239D7C10",
-    "id": 23,
-    "name": "量子资源(可下载)",
-    "api": "http://cj.lziapi.com/api.php/provide/vod/at/xml",
-    "group": "可下载",
-    "isActive": true,
+    "id": 20,
     "reverseOrder": false,
     "status": "可用"
   },
@@ -270,7 +234,7 @@
     "useInSearchAll": true,
     "isActive": true,
     "group": "可下载",
-    "id": 24,
+    "id": 21,
     "reverseOrder": false,
     "status": "可用"
   },
@@ -281,25 +245,13 @@
     "useInSearchAll": true,
     "isActive": true,
     "group": "可下载",
-    "id": 25,
-    "reverseOrder": false,
-    "status": "可用"
-  },
-  {
-    "key": "QPLyr6",
-    "id": 26,
-    "name": "暴风资源(可下载)",
-    "api": "https://bfzyapi.com/api.php/provide/vod/at/xml",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "可下载",
-    "isActive": true,
+    "id": 22,
     "reverseOrder": false,
     "status": "可用"
   },
   {
     "key": "myJMOU",
-    "id": 27,
+    "id": 23,
     "name": "大漠资源(可下载)",
     "api": "https://damozy.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -311,7 +263,7 @@
   },
   {
     "key": "gMhd0F",
-    "id": 28,
+    "id": 24,
     "name": "虎牙资源(可下载)",
     "api": "https://www.huyaapi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -323,7 +275,7 @@
   },
   {
     "key": "jnUr2L",
-    "id": 29,
+    "id": 25,
     "name": "火狐资源(可下载)",
     "api": "https://hhzyapi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -335,7 +287,7 @@
   },
   {
     "key": "Lvzu4d",
-    "id": 30,
+    "id": 26,
     "name": "夸克资源(可下载)",
     "api": "http://kuakezy1.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -347,7 +299,7 @@
   },
   {
     "key": "brzLsO",
-    "id": 31,
+    "id": 27,
     "name": "快车资源(可下载)",
     "api": "https://caiji.kczyapi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -359,7 +311,7 @@
   },
   {
     "key": "HTXZkB",
-    "id": 32,
+    "id": 28,
     "name": "快看资源(可下载)",
     "api": "https://kuaikan-api.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -371,7 +323,7 @@
   },
   {
     "key": "vv7bvD",
-    "id": 33,
+    "id": 29,
     "name": "奇虎资源(可下载)",
     "api": "https://caiji.qhzyapi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -388,19 +340,7 @@
     "useInSearchAll": true,
     "isActive": true,
     "group": "导入",
-    "id": 34,
-    "reverseOrder": false,
-    "status": "可用"
-  },
-  {
-    "key": "ABaYSP",
-    "id": 35,
-    "name": "段友影视(聚)",
-    "api": "http://shangjihuoke.com/api.php/provide/vod/at/xml",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "导入",
-    "isActive": true,
+    "id": 30,
     "reverseOrder": false,
     "status": "可用"
   },
@@ -411,7 +351,7 @@
     "useInSearchAll": true,
     "isActive": true,
     "group": "导入",
-    "id": 36,
+    "id": 31,
     "reverseOrder": false,
     "status": "可用"
   },
@@ -422,13 +362,13 @@
     "useInSearchAll": true,
     "isActive": true,
     "group": "导入",
-    "id": 37,
+    "id": 32,
     "reverseOrder": false,
     "status": "可用"
   },
   {
     "key": "P95qOM",
-    "id": 38,
+    "id": 33,
     "name": "干饭影视(聚)",
     "api": "http://124.220.183.81:83/api.php/provide/vod/at/xml",
     "download": "",
@@ -440,7 +380,7 @@
   },
   {
     "key": "bfKD35",
-    "id": 39,
+    "id": 34,
     "name": "8090资源(官)",
     "api": "https://zy.yilans.net:8090/api.php/provide/vod/at/xml",
     "download": "",
@@ -452,7 +392,7 @@
   },
   {
     "key": "hvgUtW",
-    "id": 40,
+    "id": 35,
     "name": "M3U8,TV(官)",
     "api": "https://www.zycaiji.net:7788/api.php/provide/vod/at/xml",
     "download": "",
@@ -464,7 +404,7 @@
   },
   {
     "key": "mMlkes",
-    "id": 41,
+    "id": 36,
     "name": "天堂资源(官)",
     "api": "http://vipmv.cc/api.php/provide/vod/at/xml",
     "download": "",
@@ -476,7 +416,7 @@
   },
   {
     "key": "Wr3E4C",
-    "id": 42,
+    "id": 37,
     "name": "忆梦(官)",
     "api": "http://anltv.cn/api.php/provide/vod/at/xml",
     "download": "",
@@ -488,7 +428,7 @@
   },
   {
     "key": "aPcyMR",
-    "id": 43,
+    "id": 38,
     "name": "明帝(官)",
     "api": "http://cj.md214.cn/api.php/provide/vod/at/xml",
     "download": "",
@@ -500,7 +440,7 @@
   },
   {
     "key": "Ik9HCU",
-    "id": 44,
+    "id": 39,
     "name": "花旗资源(官)",
     "api": "https://seacms.huaqi.live/zyapi.php",
     "download": "",
