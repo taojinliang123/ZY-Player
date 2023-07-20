@@ -70,8 +70,20 @@
     "status": "可用"
   },
   {
-    "key": "xSwkna",
+    "key": "dqrKxQ",
     "id": 7,
+    "name": "豌豆资源(j可下载)",
+    "api": "https://ks.wandouzy.cc/api.php/provide/vod/at/xml",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "可下载",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "xSwkna",
+    "id": 8,
     "name": "享看资源(可下载)",
     "api": "https://xkanzy10.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -83,21 +95,9 @@
   },
   {
     "key": "x9XkHO",
-    "id": 8,
+    "id": 9,
     "name": "虎牙资源(可下载)",
     "api": "https://www.huyaapi.com/api.php/provide/vod/at/xml",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "可下载",
-    "isActive": true,
-    "reverseOrder": false,
-    "status": "可用"
-  },
-  {
-    "key": "3JoPy8",
-    "id": 9,
-    "name": "68资源(可下载)",
-    "api": "https://caiji.68zyapi.com/api.php/provide/vod/at/xml",
     "download": "",
     "jiexiUrl": "",
     "group": "可下载",

@@ -12,7 +12,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 216,
+    "id": 250,
     "type": 0,
     "search": 1
   },
@@ -24,7 +24,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 217,
+    "id": 251,
     "type": 0,
     "search": 1
   },
@@ -38,7 +38,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 218,
+    "id": 252,
     "type": 0,
     "search": 1
   },
@@ -52,7 +52,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 219,
+    "id": 253,
     "type": 0,
     "search": 1
   },
@@ -66,7 +66,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 220,
+    "id": 254,
     "type": 0,
     "search": 1
   },
@@ -80,7 +80,21 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 221,
+    "id": 255,
+    "type": 0,
+    "search": 1
+  },
+  {
+    "key": "dqrKxQ",
+    "name": "豌豆资源(j可下载)",
+    "api": "https://ks.wandouzy.cc/api.php/provide/vod/at/xml",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "可下载",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用",
+    "id": 256,
     "type": 0,
     "search": 1
   },
@@ -94,7 +108,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 222,
+    "id": 257,
     "type": 0,
     "search": 1
   },
@@ -108,21 +122,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 223,
-    "type": 0,
-    "search": 1
-  },
-  {
-    "key": "3JoPy8",
-    "name": "68资源(可下载)",
-    "api": "https://caiji.68zyapi.com/api.php/provide/vod/at/xml",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "可下载",
-    "isActive": true,
-    "reverseOrder": false,
-    "status": "可用",
-    "id": 224,
+    "id": 258,
     "type": 0,
     "search": 1
   },
@@ -136,7 +136,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 225,
+    "id": 259,
     "type": 0,
     "search": 1
   },
@@ -150,7 +150,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 226,
+    "id": 260,
     "type": 0,
     "search": 1
   },
@@ -163,7 +163,7 @@
     "group": "可下载",
     "reverseOrder": false,
     "status": "可用",
-    "id": 227,
+    "id": 261,
     "type": 0,
     "search": 1
   },
@@ -176,7 +176,7 @@
     "group": "可下载",
     "reverseOrder": false,
     "status": "可用",
-    "id": 228,
+    "id": 262,
     "type": 0,
     "search": 1
   },
@@ -189,7 +189,7 @@
     "group": "可下载",
     "reverseOrder": false,
     "status": "可用",
-    "id": 229,
+    "id": 263,
     "type": 0,
     "search": 1
   },
@@ -202,7 +202,7 @@
     "group": "可下载",
     "reverseOrder": false,
     "status": "可用",
-    "id": 230,
+    "id": 264,
     "type": 0,
     "search": 1
   },
@@ -215,7 +215,7 @@
     "group": "可下载",
     "reverseOrder": false,
     "status": "可用",
-    "id": 231,
+    "id": 265,
     "type": 0,
     "search": 1
   },
@@ -228,7 +228,7 @@
     "group": "可下载",
     "reverseOrder": false,
     "status": "可用",
-    "id": 232,
+    "id": 266,
     "type": 0,
     "search": 1
   },
@@ -240,7 +240,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 233,
+    "id": 267,
     "type": 0,
     "search": 1
   },
@@ -253,7 +253,7 @@
     "group": "可下载",
     "reverseOrder": false,
     "status": "可用",
-    "id": 234,
+    "id": 268,
     "type": 0,
     "search": 1
   },
@@ -266,7 +266,7 @@
     "group": "可下载",
     "reverseOrder": false,
     "status": "可用",
-    "id": 235,
+    "id": 269,
     "type": 0,
     "search": 1
   },
@@ -279,7 +279,7 @@
     "group": "可下载",
     "reverseOrder": false,
     "status": "可用",
-    "id": 236,
+    "id": 270,
     "type": 0,
     "search": 1
   },
@@ -293,7 +293,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 237,
+    "id": 271,
     "type": 0,
     "search": 1
   },
@@ -307,7 +307,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 238,
+    "id": 272,
     "type": 0,
     "search": 1
   },
@@ -321,7 +321,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 239,
+    "id": 273,
     "type": 0,
     "search": 1
   },
@@ -335,7 +335,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 240,
+    "id": 274,
     "type": 0,
     "search": 1
   },
@@ -349,7 +349,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 241,
+    "id": 275,
     "type": 0,
     "search": 1
   },
@@ -363,7 +363,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 242,
+    "id": 276,
     "type": 0,
     "search": 1
   },
@@ -377,7 +377,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 243,
+    "id": 277,
     "type": 0,
     "search": 1
   },
@@ -390,7 +390,7 @@
     "group": "导入",
     "reverseOrder": false,
     "status": "可用",
-    "id": 244,
+    "id": 278,
     "type": 0,
     "search": 1
   },
@@ -403,7 +403,7 @@
     "group": "导入",
     "reverseOrder": false,
     "status": "可用",
-    "id": 245,
+    "id": 279,
     "type": 0,
     "search": 1
   },
@@ -417,7 +417,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 246,
+    "id": 280,
     "type": 0,
     "search": 1
   },
@@ -430,7 +430,7 @@
     "group": "导入",
     "reverseOrder": false,
     "status": "可用",
-    "id": 247,
+    "id": 281,
     "type": 0,
     "search": 1
   },
@@ -444,7 +444,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 248,
+    "id": 282,
     "type": 0,
     "search": 1
   },
@@ -458,7 +458,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 249,
+    "id": 283,
     "type": 0,
     "search": 1
   }
