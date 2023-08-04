@@ -12,7 +12,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 250,
+    "id": 284,
     "type": 0,
     "search": 1
   },
@@ -24,7 +24,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 251,
+    "id": 285,
     "type": 0,
     "search": 1
   },
@@ -38,7 +38,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 252,
+    "id": 286,
     "type": 0,
     "search": 1
   },
@@ -52,7 +52,21 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 253,
+    "id": 287,
+    "type": 0,
+    "search": 1
+  },
+  {
+    "key": "cm4zij",
+    "name": "速博资源(可下载)",
+    "api": "https://subocaiji.com/api.php/provide/vod/at/xml",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "可下载",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用",
+    "id": 288,
     "type": 0,
     "search": 1
   },
@@ -66,7 +80,21 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 254,
+    "id": 289,
+    "type": 0,
+    "search": 1
+  },
+  {
+    "key": "shZCxL",
+    "name": "快云资源(可下载)",
+    "api": "https://www.kuaiyunzy.com/api.php/provide/vod/at/xml",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "可下载",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用",
+    "id": 290,
     "type": 0,
     "search": 1
   },
@@ -80,7 +108,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 255,
+    "id": 291,
     "type": 0,
     "search": 1
   },
@@ -94,7 +122,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 256,
+    "id": 292,
     "type": 0,
     "search": 1
   },
@@ -108,7 +136,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 257,
+    "id": 293,
     "type": 0,
     "search": 1
   },
@@ -122,7 +150,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 258,
+    "id": 294,
     "type": 0,
     "search": 1
   },
@@ -136,7 +164,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 259,
+    "id": 295,
     "type": 0,
     "search": 1
   },
@@ -150,7 +178,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 260,
+    "id": 296,
     "type": 0,
     "search": 1
   },
@@ -163,20 +191,7 @@
     "group": "可下载",
     "reverseOrder": false,
     "status": "可用",
-    "id": 261,
-    "type": 0,
-    "search": 1
-  },
-  {
-    "key": "D95D9CBB2C7817B17233637A6CE7875D",
-    "name": "淘片资源(可下载)",
-    "api": "https://taopianapi.com/home/cjapi/as/mc/vod/xml",
-    "useInSearchAll": true,
-    "isActive": true,
-    "group": "可下载",
-    "reverseOrder": false,
-    "status": "可用",
-    "id": 262,
+    "id": 297,
     "type": 0,
     "search": 1
   },
@@ -189,7 +204,7 @@
     "group": "可下载",
     "reverseOrder": false,
     "status": "可用",
-    "id": 263,
+    "id": 298,
     "type": 0,
     "search": 1
   },
@@ -202,7 +217,7 @@
     "group": "可下载",
     "reverseOrder": false,
     "status": "可用",
-    "id": 264,
+    "id": 299,
     "type": 0,
     "search": 1
   },
@@ -215,7 +230,7 @@
     "group": "可下载",
     "reverseOrder": false,
     "status": "可用",
-    "id": 265,
+    "id": 300,
     "type": 0,
     "search": 1
   },
@@ -228,7 +243,7 @@
     "group": "可下载",
     "reverseOrder": false,
     "status": "可用",
-    "id": 266,
+    "id": 301,
     "type": 0,
     "search": 1
   },
@@ -240,7 +255,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 267,
+    "id": 302,
     "type": 0,
     "search": 1
   },
@@ -253,7 +268,7 @@
     "group": "可下载",
     "reverseOrder": false,
     "status": "可用",
-    "id": 268,
+    "id": 303,
     "type": 0,
     "search": 1
   },
@@ -266,7 +281,7 @@
     "group": "可下载",
     "reverseOrder": false,
     "status": "可用",
-    "id": 269,
+    "id": 304,
     "type": 0,
     "search": 1
   },
@@ -279,7 +294,7 @@
     "group": "可下载",
     "reverseOrder": false,
     "status": "可用",
-    "id": 270,
+    "id": 305,
     "type": 0,
     "search": 1
   },
@@ -293,7 +308,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 271,
+    "id": 306,
     "type": 0,
     "search": 1
   },
@@ -307,7 +322,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 272,
+    "id": 307,
     "type": 0,
     "search": 1
   },
@@ -321,7 +336,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 273,
+    "id": 308,
     "type": 0,
     "search": 1
   },
@@ -335,7 +350,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 274,
+    "id": 309,
     "type": 0,
     "search": 1
   },
@@ -349,7 +364,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 275,
+    "id": 310,
     "type": 0,
     "search": 1
   },
@@ -363,7 +378,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 276,
+    "id": 311,
     "type": 0,
     "search": 1
   },
@@ -377,7 +392,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 277,
+    "id": 312,
     "type": 0,
     "search": 1
   },
@@ -390,7 +405,7 @@
     "group": "导入",
     "reverseOrder": false,
     "status": "可用",
-    "id": 278,
+    "id": 313,
     "type": 0,
     "search": 1
   },
@@ -403,7 +418,7 @@
     "group": "导入",
     "reverseOrder": false,
     "status": "可用",
-    "id": 279,
+    "id": 314,
     "type": 0,
     "search": 1
   },
@@ -417,7 +432,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 280,
+    "id": 315,
     "type": 0,
     "search": 1
   },
@@ -430,7 +445,7 @@
     "group": "导入",
     "reverseOrder": false,
     "status": "可用",
-    "id": 281,
+    "id": 316,
     "type": 0,
     "search": 1
   },
@@ -444,7 +459,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 282,
+    "id": 317,
     "type": 0,
     "search": 1
   },
@@ -458,7 +473,7 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用",
-    "id": 283,
+    "id": 318,
     "type": 0,
     "search": 1
   }
