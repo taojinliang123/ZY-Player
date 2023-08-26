@@ -264,8 +264,44 @@
     "status": "可用"
   },
   {
-    "key": "gMhd0F",
+    "key": "sretCR",
     "id": 24,
+    "name": "秒看资源(可下载)",
+    "api": "https://mkzy.vip/api.php/provide/vod/at/xml",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "可下载",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "yJeSnY",
+    "id": 25,
+    "name": "49资源(可下载)",
+    "api": "https://49zyw.com/api.php/provide/vod/at/xml",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "可下载",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "LetbaO",
+    "id": 26,
+    "name": "四个圈影视(可下载)",
+    "api": "https://pg.fenwe078.cf/api.php/provide/vod/at/xml",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "可下载",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "gMhd0F",
+    "id": 27,
     "name": "虎牙资源(可下载)",
     "api": "https://www.huyaapi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -277,7 +313,7 @@
   },
   {
     "key": "jnUr2L",
-    "id": 25,
+    "id": 28,
     "name": "火狐资源(可下载)",
     "api": "https://hhzyapi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -289,7 +325,7 @@
   },
   {
     "key": "Lvzu4d",
-    "id": 26,
+    "id": 29,
     "name": "夸克资源(可下载)",
     "api": "http://kuakezy1.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -301,7 +337,7 @@
   },
   {
     "key": "brzLsO",
-    "id": 27,
+    "id": 30,
     "name": "快车资源(可下载)",
     "api": "https://caiji.kczyapi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -313,7 +349,7 @@
   },
   {
     "key": "HTXZkB",
-    "id": 28,
+    "id": 31,
     "name": "快看资源(可下载)",
     "api": "https://kuaikan-api.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -325,7 +361,7 @@
   },
   {
     "key": "vv7bvD",
-    "id": 29,
+    "id": 32,
     "name": "奇虎资源(可下载)",
     "api": "https://caiji.qhzyapi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -336,43 +372,9 @@
     "status": "可用"
   },
   {
-    "key": "418E4B040CFE3E7E0469305195F7F22D",
-    "name": "蘑菇资源(聚)",
-    "api": "http://api.moguapi.com/api.php/provide/vod/at/xml",
-    "useInSearchAll": true,
-    "isActive": true,
-    "group": "导入",
-    "id": 30,
-    "reverseOrder": false,
-    "status": "可用"
-  },
-  {
     "key": "375C01721B16639EF61D4CA41D2378AF",
     "name": "影图资源(聚)",
     "api": "https://cj.vodimg.top/api.php/provide/vod/at/xml",
-    "useInSearchAll": true,
-    "isActive": true,
-    "group": "导入",
-    "id": 31,
-    "reverseOrder": false,
-    "status": "可用"
-  },
-  {
-    "key": "P95qOM",
-    "id": 32,
-    "name": "干饭影视(聚)",
-    "api": "http://124.220.183.81:83/api.php/provide/vod/at/xml",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "导入",
-    "isActive": true,
-    "reverseOrder": false,
-    "status": "可用"
-  },
-  {
-    "key": "C2B947C747CA31CD3FB442FF0EE642B5",
-    "name": "FF9资源（聚)",
-    "api": "https://www.ff9.top/api.php/provide/vod/at/xml/",
     "useInSearchAll": true,
     "isActive": true,
     "group": "导入",
